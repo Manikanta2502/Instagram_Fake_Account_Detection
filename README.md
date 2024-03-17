@@ -6,7 +6,9 @@ The accuracy of the project is 93% and 91% after 5 folds .
 The model works using the data available about Instagram User on instagram, It uses data such as followers, following , availability of profile pic , posts and some more details as such .
 
 Team members Details:
+
 L V Manikanta Maguluri(magulurimanikanta123@gmail.com)
+
 Charan Veeranki(vv2052@srmist.edu.in)
 
 Project Title: Fake Instagram Account Detection
@@ -19,16 +21,25 @@ Use Cases:
 These are main areas where concern is and needs to be taken care of 
 
 Content Moderation: Automatically detect and remove fake accounts to maintain platform integrity and user experience.
+
 User Protection: Identify and prevent potential scams, fraudulent activities, and privacy breaches associated with fake accounts.
+
 Brand Safety: Ensure brand safety and integrity by identifying fake follower counts and engagement metrics in influencer marketing collaborations.
+
 Ad Fraud Prevention: Detect and mitigate ad fraud by identifying fake accounts artificially inflating ad engagement metrics.
+
 Trust and Transparency: Foster trust among users and demonstrate commitment to combating fraudulent activities by transparently disclosing and removing fake accounts.
+
 Regulatory Compliance: Align with regulatory requirements and standards related to online platforms and data privacy by implementing measures to detect and remove fake accounts.
+
 Research and Analysis: Enable researchers and analysts to study trends and patterns related to fake accounts, enhancing understanding of social media manipulation tactics.
+
 User Education: Empower users to identify and report suspicious activities, contributing to a safer and more trustworthy online community.
 
 Challenges Faced:
+
 There are multiple models out there finding the one which is suitable for our dataset and get the maximum accuracy possible .
+
 Balancing feature selection, addressing class imbalance, and deploying scalable, ethical solutions for detecting fake Instagram accounts.
 
 Youtube video link for demo : https://youtu.be/h4WYTyjY6pI
@@ -58,6 +69,8 @@ We recommand using Google Colab or Jupyter Notebook for the process.
 
 
 Technologies Used :
+
 1)Python with scikit-learn and pandas for machine learning model development.
+
 2)ONNX for model interoperability and scalability, deployed using onnxruntime for real-time inference.
 
